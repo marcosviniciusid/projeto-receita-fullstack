@@ -1,5 +1,4 @@
 # Projeto prático do curso
----
 
 Projeto desenvolvido no curso da Rocketseat na formação FullStack
 
@@ -9,4 +8,4 @@ No momento em que o projeto foi desenvolvido, o autor já possuía conhecimento 
 
 Preview da página desenvolvida em HTML e CSS:
 
-![Imagem do projeto]('assets/img-do-projeto.png')
+![Imagem do projeto](assets/img-do-projeto.png)
