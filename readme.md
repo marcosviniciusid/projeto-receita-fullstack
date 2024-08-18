@@ -1,6 +1,6 @@
 # Projeto prático do curso
 
-Projeto desenvolvido no curso da Rocketseat na formação FullStack
+Projeto desenvolvido no curso da Rocketseat na formação FullStack.
 
 Neste projeto, foi trabalhado apenas o HTML básico, sem utilizar recursos mais modernos como Flexbox e Grid. Foram utilizadas as principais tags do HTML, CSS para estilizar a página, e fontes incorporadas com o Google Fonts. Os commits e o push foram realizados diretamente no VS Code.
 
